@@ -175,13 +175,13 @@ ___
 1. Lakukan update dan upgrade terlebih dahulu
 ![Markdown Logo](https://github.com/ItsBahrilYo/Minggu-Pertama-/blob/master/foto/tugas2/install_apache2/Screenshot%20from%202022-08-23%2022-09-48.png?raw=true)
 
-![Markdown Logo](https://github.com/ItsBahrilYo/Minggu-Pertama-/blob/master/foto/tugas2/install_apache2/Screenshot%20from%202022-08-23%2022-35-36.png?raw=true)
+
 
 2. Install apache2 dengan command
 
 <!-- Code Blocks -->
 ```bash
-  sudo install apache2
+  sudo apt install apache2
 ```
 ![Markdown Logo](https://github.com/ItsBahrilYo/Minggu-Pertama-/blob/master/foto/tugas2/install_apache2/Screenshot%20from%202022-08-23%2022-36-15.png?raw=true)
 
@@ -194,10 +194,19 @@ ___
 ```bash
 sudo systemctl status apache2
 ```
+![Markdown Logo](https://github.com/ItsBahrilYo/Minggu-Pertama-/blob/master/foto/tugas2/install_apache2/Screenshot%20from%202022-08-23%2022-38-19.png?raw=true)
+
+
+
 5. Web browser check
 ![Markdown Logo](https://github.com/ItsBahrilYo/Minggu-Pertama-/blob/master/foto/tugas2/install_apache2/Screenshot%20from%202022-08-24%2014-14-24.png?raw=true)
 
 ### 4. Install localtunnel
+
+* Sebelumnya saya telah coba install pm2
+nya. Tetapi menemui masalah pada saat instalasi seperti ini.
+
+![Markdown Logo](https://github.com/ItsBahrilYo/Minggu-Pertama-/blob/master/error.png?raw=true)
 
 1. Install localtunnel dengan command
 <!-- Code Blocks -->
