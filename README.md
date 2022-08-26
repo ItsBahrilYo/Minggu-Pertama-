@@ -146,6 +146,8 @@ ___
 * cp -r = copy directory
 * mv = move/rename file
 * ln -s = create symbolic link to file
+* chmod = for changing permission
+* chown = for changing file ownership
 
 ### 3. Ganti Ip server lama menjadi ip server baru
 
@@ -235,7 +237,7 @@ Merupakan suatu perangkat lunak komputer yang terdiri dari code dan logika-logik
 
 ### 2. Nodejs 
 
-1. Instalasi express
+1. Instalasi package manager nvm dan framework express
 
 <!-- Code Blocks -->
 ```bash
@@ -273,11 +275,11 @@ npm install express --save
 
 ### Python
 
-1. Install pip
+1. Kita perlu install package manager pip 
 
 ![Markdown Logo](https://github.com/ItsBahrilYo/Minggu-Pertama-/blob/master/foto/tugas3/python/Screenshot%20from%202022-08-24%2023-40-05.png?raw=true)
 
-2. Install flask
+2. Lalu menginstall framework flask
 
 ![Markdown Logo](https://github.com/ItsBahrilYo/Minggu-Pertama-/blob/master/foto/tugas3/python/Screenshot%20from%202022-08-24%2023-43-30.png?raw=true)
 
