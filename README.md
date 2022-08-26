@@ -3,8 +3,8 @@
 ## TASK 1
 ### 1.Definisi Devops
 <!-- Inline Code Block -->
-<p>Devops merupakan gabungan dari 2 kata yaitu Development dan Operation, dimana tugasnya adalah untuk membantu dan memfasilitasi kerjasama antara tim Development dan tim Operation dalam membangun aplikasi. Membantu dan memfasilitasi dalam hal apa? dalam devops ada yang disebut sebagai Devops lifecyle
-dimana ada proses plan, code,build, test, release, deploy, operate dan monitor. Proses berikut akan terus berulan-ulang dalam startup lifecycle.   GAMBAR LIFECYCLE</p>
+<p>Devops merupakan gabungan dari 2 kata yaitu Development dan Operation, dimana tugasnya adalah untuk membantu dan memfasilitasi kerjasama antara tim Development dan tim Operation dalam membangun aplikasi. Membantu dan memfasilitasi dalam hal apa? dalam devops ada yang disebut sebagai Devops pipeline
+dimana ada proses plan, code,build, test, release, deploy, operate dan monitor di berbagai proses inilah devops akan terus berkomunikasi dan memfasilitasi tiap tim. Proses berikut akan terus berulan-ulang dalam startup lifecycle.  </p>
 
 <!-- Images -->
 ![Markdown Logo](https://pakar.co.id/storage/2017/09/devops-process.png)
